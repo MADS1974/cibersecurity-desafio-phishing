@@ -1,7 +1,5 @@
-</h1>
-
-<p align="center">
-# Phishing para captura de senhas do Facebook
+ 
+### Phishing para captura de senhas do Facebook
 
 ### Ferramentas
 
@@ -18,7 +16,6 @@
 - Método de ataque: ``` Site Cloner ```
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: http://www.facebook.com
-</p>
 
 ### Resutados
 
